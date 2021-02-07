@@ -51,9 +51,18 @@ The idea is to keep the requirements in the present form on Github, so that ever
 
 ### Marketplace fees collection
 
-- The partners **MUST** ensure 
+- The partners **MUST** ensure that every supported marketplace collects artist royalties, co-owner shares and other beneficiaries fees automatically (e.g. a curator) and redistributes them accordingly.
+- The partners **MUST** implement automations to enforce the fees collection not only for the primary sale but also in the secondary market.
+- The partners **SHOULD** implement configurable and flexible smart contract to embrace a variety of use cases.
+- The partners **SHOULD** refer to MoCDA's acquired know how in this scope, to test the adaptability of the contracts.
+- The partners **SHOULD** educate artists and collectors about the  possibilities available to them. Ideally this should be decided either at the time of an art drop or aven better at creation time.
 
 ### Marketplace API
+
+inclusion of a number of platforms and tech
+inclusion and negotiation with existing popular and emerging marketplaces
+
+
 ### Backend API
 ### Cross chain provenance
 ### UI widgets
