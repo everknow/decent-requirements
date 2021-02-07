@@ -2,7 +2,7 @@ Decent-Requirements
 -------------------
 
 ### Overview
-Decent Partners operates as a collecttive of organisations, technology and social presence to drive the next stage in the evolution of web3 media sustainable, scalable, interoperable and composable models. The present document contains a comprehensive set of requirements prioritised via the MoSCoW approach.
+Decent Partners operates as a collective of organisations, technology and social presence to drive the next stage in the evolution of web3 media sustainable, scalable, interoperable and composable models. The present document contains a comprehensive set of requirements prioritised via the MoSCoW approach.
 The idea is to keep the requirements in the present form on Github, so that every change is historically traceable.
 
 ### DAO
