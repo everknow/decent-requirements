@@ -18,8 +18,15 @@ The idea is to keep the requirements in the present form on Github, so that ever
 - The partners **COULD** open up to parallel third party curatorial committees that wish to support parallel creative spins.
 
 ### Curatiorial Support
+- The partners **MUST** expand on the curatorial capacity lead by MoCDA's example.
+- The partners **MUST** produce a manifesto of principles the collective curatorial wows to adhere to, in order to remain impartial and cultural in its influence.
+- The partners **MUST** produce a series of measurable metrics to objectively verify divergence from the principles.
+- The partners **MUST** produce a series of measurable metrics to verify the influence the curatorial actions had on the market.
+- The partners **MUST** implement a scoring mechanism based on market metrics, every participant starts with a score that then fluctuates. 
+- The partners **MUST** drive collectively the periodic review of the principles and metrics via a DAO democratic process based on score.
+- The partners **COULD** accept external input from a selected number of social and market sources.
+- The partners **COULD** drive collectively the periodic whitelisting and weight of the external sources.
 
-### Experimental DAO
 ### Token economy collaterals
 ### Market Transparency
 ### Marketplace fees collection
