@@ -32,9 +32,11 @@ The idea is to keep the requirements in the present form on Github, so that ever
 ### Business intelligence
 ### Legal support
 ### R&D innovation
-- Async model
+- Async composability model
 - Customisable Smart Contracts
 - Foreign Technology (Haskell, C)
 - Identity and metadata access
+- Content Streaming
+- Scalability and parallelism
 
 
