@@ -6,9 +6,11 @@ Decent Partners operates as a collecttive of organisations, technology and socia
 The idea is to keep the requirements in the present form on Github, so that every change is historically traceable.
 
 ### DAO
+
 - The partners **MUST** operate via a bespoke and holistic governance model. The model of reference is ..
 
 ### Support artistic creation
+
 - The partners **MUST** support directly the funding of artistic creations via Zora's smart contracts.
 - The partners **SHOULD** aim to produce a sustainable revenue model from art creation it subsidises.
 - The partners **COULD** seek to fundrise via third party collectors and investors.
@@ -18,6 +20,7 @@ The idea is to keep the requirements in the present form on Github, so that ever
 - The partners **COULD** open up to parallel third party curatorial committees that wish to support parallel creative spins.
 
 ### Curatiorial Support
+
 - The partners **MUST** expand on the curatorial capacity lead by MoCDA's example.
 - The partners **MUST** produce a manifesto of principles the collective curatorial wows to adhere to, in order to remain impartial and cultural in its influence.
 - The partners **MUST** produce a series of measurable metrics to objectively verify divergence from the principles.
@@ -28,8 +31,28 @@ The idea is to keep the requirements in the present form on Github, so that ever
 - The partners **COULD** drive collectively the periodic whitelisting and weight of the external sources.
 
 ### Token economy collaterals
+
+- The partners **SHOULD** implement deFi solutions for loans, backed by an art asset security. This will enable additional sales.
+- The partners **SHOULD** implement deFi solutions for speculation over an art asset.
+- The partners **SHOULD** implement a risk management solution to provision for mitigations.
+- The partners **COULD** activate a token economy to sustain its activities and the services it offers. Automatic and not.
+- The partners **COULD** support preferential trading with Edgeware and any chain within the partners sphere of influence.
+- The partners **COULD** trade its tokens on third party exchanges.
+- The partners **COULD** engage in promotional distribution strategies to drive adoption of its tokens.
+
 ### Market Transparency
+
+- The partners **SHOULD** support a transparent record while retaining sensitive information in highly secured and tamper proof vaults.
+- The partners **SHOULD** encourage collectors from the crypto or the traditional art market to support AML best practices.
+- The partners **COULD** support privacy and opacity, although it should discourage these practices as when the market gets traction it is likely to come under the scrutiny of governmental regulatory bodies.
+- The partners **MUST** be in the position to recommend which data should or should not be exposed externally.
+- The partners **SHOULD** produce a per-metadata-entry risk profile taxonomy, and ensure the automation applies constraints where it can.
+- The partners **SHOULD** engage in periodic assessment of the categories of risk and update any related automation.
+
 ### Marketplace fees collection
+
+- The partners **MUST** ensure 
+
 ### Marketplace API
 ### Backend API
 ### Cross chain provenance
