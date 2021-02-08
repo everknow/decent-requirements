@@ -9,6 +9,8 @@ The idea is to keep the requirements in the present form on Github, so that ever
 
 - The partners **MUST** operate via a bespoke and holistic governance model. The model of reference is ..
 
+++++++++++++++++++++++ bulb+phil
+
 ### Support artistic creation
 
 - The partners **MUST** support directly the funding of artistic creations via Zora's smart contracts.
@@ -64,12 +66,33 @@ inclusion and negotiation with existing popular and emerging marketplaces
 
 
 ### Backend API
+
+dom
+
 ### Cross chain provenance
+
+dom
+
 ### UI widgets
+
+++++++++++++++++++++ bulb+phil
+
 ### Full stack support
+
++++++++ bulb+dom
+
 ### Business development
+
+++++++++++++ bulb+dom+sere+phil
+
 ### Business intelligence
+
+dom
+
 ### Legal support
+
+sere+bulb
+
 ### R&D innovation
 - Async composability model
 - Customisable Smart Contracts
