@@ -6,7 +6,7 @@ _Decent Partners_ operates as a collective ("the collective") of organisations, 
 
 Partners are funded via grants from the community owned and operated _Decent Web3 Media Fund_ ("the fund").  
 
-The mission is to drive the evolution of web3 media via sustainable, scalable, interoperable and composable models that are publicly owned, operated and accessible.
+The mission is to drive the evolution of Web3 media via sustainable, scalable, interoperable and composable models that are publicly owned, operated and accessible.
 
 The present document contains a comprehensive set of requirements prioritised via the MoSCoW approach.
 
