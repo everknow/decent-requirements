@@ -2,7 +2,7 @@ Decent-Requirements
 -------------------
 
 ### Overview
-_Decent Partners_ operates as a collective ("the collective") of organisations, technologists and media networks ("the partners") that bridge Web2 and Web3 media. 
+_Decent Partners_ operates as a collective ("the collective") of developers, creators and entrepreneurs ("the partners") that bridges Web2 and Web3 media. 
 
 Partners are funded via grants from the community owned and operated _Decent Web3 Media Fund_ ("the fund").  
 
