@@ -16,11 +16,11 @@ Where conflicts arise **VALUES** will take precedent.
 
 ### VALUES
 
-- The collective **MUST** be operated as a publicly owned and operated entity.
-- The collective **MUST** make all code open source under X licence. 
-- The collective **MUST** develop and iterate a binding constitution ("the constitution") that Decent Partners operate under.
-- The colleciive **MUST** be open for new partners to join and also to leave to ensure the collective is resilient.  
-- The collective **SHOULD** always prioritise long term thinking over short-term opportunities.
+- The cooperative **MUST** be operated as a publicly owned and operated entity.
+- The cooperative **MUST** make all code open source under X licence. 
+- The cooperative **MUST** develop and iterate a binding constitution ("the constitution") that Decent Partners operate under.
+- The cooperative **MUST** be open for new partners to join and also to leave to ensure the cooperative is resilient.  
+- The cooperative **SHOULD** always prioritise long term thinking over short-term opportunities.
 
 ### FUND
 
@@ -35,7 +35,7 @@ Where conflicts arise **VALUES** will take precedent.
 ### DAO
 
 - The partners **MUST** operate via an transparent, intuitive and scalable governance model.
-- The partners **MUST** be governed by nominated partners who represent the contributing entities of the collective. 
+- The partners **MUST** be governed by nominated partners who represent the contributing entities of the cooperative. 
 - The partners **MUST** develop governance systems that can be operated by technically competent and novice users alike.
 - The partners **MUST** develop transparent and auditable mechanisms for the discussion, proposing, funding, tracking and reporting of grants. 
 - The partners **SHOULD** enable 
