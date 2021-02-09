@@ -44,7 +44,7 @@ Where conflicts arise **VALUES** will take precedent.
 
 ### CREATIVE ASSETS
 
-- The partners **MUST** support directly the funding of creative assets ("creative assets") on creator-owned marketplaces (for example, those enabled by Zora).
+- The partners **MUST** support directly the funding of creative assets ("creative assets") on creator-owned marketplaces (for example, those enabled by Zora's Smart Contracts ("Zora")).
 - The partners **COULD** support directly the funding of creative assets ("creative assets") linked to legal titles ("creative asset securities"). 
 - The partners **SHOULD** aim to produce a sustainable revenue model from the creative assets it subsidises.
 - The partners **SHOULD** develop additional use case innovations related to creator-owned marketplaces. 
