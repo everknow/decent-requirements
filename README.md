@@ -44,10 +44,10 @@ Where conflicts arise **VALUES** will take precedent.
 
 ### CREATIVE ASSETS
 
-- The partners **MUST** support directly the funding of creative assets ("creative assets") via Zora's smart contracts ("Zora").
+- The partners **MUST** support directly the funding of creative assets ("creative assets") on creator-owned marketplaces (for example, those enabled by Zora's smart contracts ("Zora")).
 - The partners **COULD** support directly the funding of creative assets ("creative assets") linked to legal titles ("creative asset securities"). 
 - The partners **SHOULD** aim to produce a sustainable revenue model from the creative assets it subsidises.
-- The partners **SHOULD** develop additional use case innovations on Zora. 
+- The partners **SHOULD** develop additional use case innovations related to creator-owned marketplaces. 
 - The partners **SHOULD** connect creative assets into the operations of the DAO to signal membership, achievements and reputation.
 - The partners **COULD** take an active role in the artistic development process by organising events and experiences.
 - The partners **SHOULD** develop projects that foster collaboration among artists.
