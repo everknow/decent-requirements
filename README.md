@@ -143,7 +143,7 @@ sere+bulb
 
 ### USE CASES
 
-- Business intelligence/[art anayltics](art-analytics-use-case.md)
+- [Business intelligence - art anayltics](art-analytics-use-case.md)
 
 
 
