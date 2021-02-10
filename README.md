@@ -12,7 +12,7 @@ The present document contains a comprehensive set of requirements prioritised vi
 
 The idea is to keep the requirements in the present form on Github, so that every change is historically traceable.
 
-Where conflicts arise **VALUES** will take precedent. 
+Where conflicts arise **VALUES** will take precedence. 
 
 ### VALUES
 
