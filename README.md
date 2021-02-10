@@ -105,11 +105,11 @@ inclusion and negotiation with existing popular and emerging marketplaces
 
 dom
 
-### PROVENANCE
+### INTEROPERABILITY
 
 dom
 
-### INTEROPERABILITY
+### PROVENANCE
 
 dom
 
@@ -143,7 +143,7 @@ sere+bulb
 
 ### USE CASES
 
-- [art anayltics](art-analytics-use-case.md)
+- Business intelligence/[art anayltics](art-analytics-use-case.md)
 
 
 
