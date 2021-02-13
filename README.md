@@ -129,11 +129,16 @@ dom
 
 ### INTEROPERABILITY
 
-dom
-
-### PROVENANCE
-
-dom
+- The partners **MUST** produce a tool to support cross chain provenance for substrate chains
+- The partners **SHOULD** produce a tool to support cross chain provenance for popoular chains that support NFTs
+- The partners **SHOULD** produce a tool to support cross chain identity profiling for substrate chains
+- The partners **COULD** produce a tool to support cross chain identity profiling for poular chains (DIDs could inspire this work)
+- The partners **SHOULD** extend a graph indexing facility to operate cross chain for substrate chains
+- The partners **COULD** extend a graph indexing facility to operate cross chain for popular chains
+- The partners **SHOULD** engage with R&D and collectively explore and experiment via targeted POCs novel forms of interoperability
+- The partners **MUST** introduce a series of automated questionnaires to acquire feedback from interoperability focus groups
+- The partners **MUST** engage the collective with a fast prototype trial of novel approaches for interoperability
+- The partners **SHOULD** derive additional requirements by engaging an inclusive collective (not developers only) interpreting their response and reactions
 
 ### FULL STACK WEB3 MEDIA
 
