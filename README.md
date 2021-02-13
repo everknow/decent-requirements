@@ -91,10 +91,6 @@ Where conflicts arise **VALUES** will take precedence.
 - The partners **COULD** trade its tokens on third party exchanges.
 - The partners **COULD** engage in promotional distribution strategies to drive adoption of its tokens.
 
-### COMMUNITY IP (LEGAL SUPPORT)
-
-
-
 ### MARKET
 
 - The partners **SHOULD** support a transparent record while retaining sensitive information in highly secured and tamper proof vaults.
