@@ -135,14 +135,13 @@ dom
 
 ### FULL STACK
 
-- The partners **MUST** ensure all elements are open, interoperable and composable to enable full stack integrations ("creative networks").
+- The partners **MUST** ensure all elements are open, interoperable and composable to enable full stack entities ("creative networks").
 - The partners **MUST** define the full-stack of Web3 Media for 3rd parties via educational materials, research and communications.
 
 ### CREATIVE NETWORKS 
 
-- Creative networks **MUST** enable artists, creators and organisations to launch their own community owned and operated entities ("creative networks").
-- Creative networks **MUST** define the full-stack of Web3 Media for 3rd parties via educational materials, research and communications ("creative networks").
-- Creative networks **SHOULD** enable creative assets to be collaboratively funded, developed and owned ("community IP"). 
+- Creative networks **MUST** enable artists, creators and organisations to fund, govern and manage their own entities.
+- Creative networks **SHOULD** enable creative assets to be packaged into higher order entities ("community IP"). 
 
 ### COMMUNITY IP (LEGAL SUPPORT)
 
