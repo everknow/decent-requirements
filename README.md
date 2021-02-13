@@ -55,7 +55,9 @@ Where conflicts arise **VALUES** will take precedence.
 
 ### CREATIVE ASSETS
 
-- The partners **MUST** support directly the funding of creative assets ("creative assets") on creator-owned marketplaces (for example, those enabled by Zora's smart contracts ("Zora")).
+- The partners **MUST** support directly the funding of creative assets ("creative assets") on creator-owned marketplaces (for example, those enabled by Zora's smart contracts ("Zora")
+- The partners **MUST** define advantages of Substrate's technology with regard to the creation and management of creative assets.  
+- The partners **MUST** experiment with Substrate's technology to advance the entire NFT space.    
 - The partners **COULD** support directly the funding of creative assets ("creative assets") linked to legal titles ("creative asset securities"). 
 - The partners **SHOULD** aim to produce a sustainable revenue model from the creative assets it subsidises.
 - The partners **SHOULD** develop additional use case innovations related to creator-owned marketplaces. 
