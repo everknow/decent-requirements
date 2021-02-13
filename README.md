@@ -2,7 +2,7 @@ Decent-Requirements
 -------------------
 
 ### Overview
-_Decent Partners_ operates as a cooperative ("the cooperative") of creators, developers, entrepreneurs and organisations ("the partners") and exists to bridge Web2 and Web3 media. 
+_Decent Partners_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs and organisations ("the partners") and exists to bridge Web2 and Web3 media. 
 
 Partners are funded via grants from the community owned and operated _Web3 Media Fund_ ("the fund"). The fund's capital is initially derived from chain treasuries such as Edgeware.   
 
@@ -16,8 +16,9 @@ Where conflicts arise **VALUES** will take precedence.
 
 ### VALUES
 
-- The cooperative **MUST** be operated as a publicly owned and operated entity.
-- The cooperative **MUST** make all code open source. 
+- The cooperative **MUST** be operated as a publicly owned, operated and accessible entity.
+- The cooperative **MUST** be sustainably, transparently and independently funded.
+- The cooperative **MUST** make all code open source and auditable. 
 - The cooperative **MUST** develop and iterate a binding constitution ("the constitution") that Decent Partners operate under.
 - The cooperative **MUST** be open for new partners to join and also to leave to ensure the cooperative is resilient.  
 - The cooperative **SHOULD** always prioritise long term thinking over short-term opportunities.
@@ -80,15 +81,19 @@ Where conflicts arise **VALUES** will take precedence.
 
 ### CREATIVE COLLATERAL
 
-- The partners **SHOULD** implement deFi solutions for loans, backed by creative assets ("creative collateral") to enable additional sales.
-- The partners **SHOULD** implement deFi solutions for loans, backed by creative asset securities. This will enable additional sales.
-- The partners **SHOULD** implement deFi solutions for speculation over a creative asset.
-- The partners **SHOULD** implement deFi solutions for indexes of creative assets.
+- The partners **SHOULD** implement defi solutions for loans, backed by creative assets ("creative collateral") to enable additional sales.
+- The partners **SHOULD** implement defi solutions for loans, backed by creative asset securities. This will enable additional sales.
+- The partners **SHOULD** implement defi solutions for speculation over a creative asset.
+- The partners **SHOULD** implement defi solutions for indexes of creative assets.
 - The partners **SHOULD** implement a risk management solution to provision for mitigations.
 - The partners **COULD** launch a community token backed by creative collateral to sustain its activities and the services it offers. Automatic and not.
 - The partners **COULD** support preferential trading with Edgeware and any chain within the partners sphere of influence.
 - The partners **COULD** trade its tokens on third party exchanges.
 - The partners **COULD** engage in promotional distribution strategies to drive adoption of its tokens.
+
+### COMMUNITY IP (LEGAL SUPPORT)
+
+
 
 ### MARKET
 
@@ -132,19 +137,28 @@ dom
 
 dom
 
+### FULL STACK
+
+- The partners **MUST** ensure all elements are open, interoperable and composable to enable full stack integrations ("creative networks").
+- The partners **MUST** define the full-stack of Web3 Media for 3rd parties via educational materials, research and communications.
 
 ### CREATIVE NETWORKS 
 
-- The partners **MUST** develop bespoke apps, interfaces and experiences that can utilise all layers of Decent's emerging Web3 media stack. 
-- The partners **MUST** define the full-stack of Web3 Media for 3rd parties via educational materials, research and communications ("creative networks").
-- The partners **MUST** enable artists, creators and organisations to develop their own community owned and operated creative networks.
+- Creative networks **MUST** enable artists, creators and organisations to launch their own community owned and operated entities ("creative networks").
+- Creative networks **MUST** define the full-stack of Web3 Media for 3rd parties via educational materials, research and communications ("creative networks").
+- Creative networks **SHOULD** enable creative assets to be collaboratively funded, developed and owned ("community IP"). 
+
+### COMMUNITY IP (LEGAL SUPPORT)
+
+- Community IP **MUST** interoperate with existing legal entities and contracts. 
+- Community IP **SHOULD** enable the efficient, transparent and cost-effective re-distribution of profits to rightholders in the underlying creative assets.
+- Community IP **COULD** be profitably licensed by 3rd party media entities, services or organisations.  
+
+### APPS,INTERFACES & EXPERIENCES
+
+- The partners **MUST** develop bespoke apps, interfaces and experiences for creative networks that utilise the Web3 media stack. 
 - The partners **COULD** create a service that aggregates the output of all creative networks through a globally accessible UI.
 - The partners **COULD** develop a publicly owned, operated and accessible Web3 media streaming service. 
-
-### UI WIDGETS
-
-EXAMPLES?
-++++++++++++++++++++ bulb+phil
 
 ### BUSINESS DEVELOPMENT
 
@@ -157,6 +171,10 @@ dom
 ### LEGAL SUPPORT
 
 sere+bulb
+
+- The partners **SHOULD** enable creative networks to interoperate with 
+- The partners **MUST** define the full-stack of Web3 Media for 3rd parties via educational materials, research and communications ("creative networks").
+- The partners
 
 ### RESEARCH & DEVELOPMENT
 - Async composability model
