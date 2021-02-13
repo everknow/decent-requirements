@@ -133,10 +133,11 @@ dom
 
 dom
 
-### FULL STACK
+### FULL STACK WEB3 MEDIA
 
-- The partners **MUST** ensure all elements are open, interoperable and composable to enable full stack entities ("creative networks").
-- The partners **MUST** define the full-stack of Web3 Media for 3rd parties via educational materials, research and communications.
+- The partners **MUST** research and define the key components of full stack Web3 media (e.g. compression, live streaming). 
+- The partners **SHOULD** define the full-stack of Web3 Media for 3rd parties via educational materials, research and communications.
+- The partners **MUST** enable full stack Web3 media entities ("creative networks").
 
 ### CREATIVE NETWORKS 
 
@@ -162,14 +163,6 @@ dom
 ### BUSINESS INTELLIGENCE
 
 dom
-
-### LEGAL SUPPORT
-
-sere+bulb
-
-- The partners **SHOULD** enable creative networks to interoperate with 
-- The partners **MUST** define the full-stack of Web3 Media for 3rd parties via educational materials, research and communications ("creative networks").
-- The partners
 
 ### RESEARCH & DEVELOPMENT
 - Async composability model
