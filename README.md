@@ -31,18 +31,18 @@ Where conflicts arise **VALUES** will take precedence.
 - The fund **MUST** be capable of holding a wide range of crypto-assets including currencies and tokens.
 - The fund **SHOULD** be capable of holding traditional assets including equity and property titles.
 - The fund **MUST** be operated in a secure, auditable and regulatory compliant manner. 
-- The fund **MUST** be accessible to anyone, anywhere as long as their proposal abides by the constitution. 
+- The fund **MUST** be accessible to anyone, anywhere as long as their proposal abides by the constitution.
+- The fund **MUST** be operated via an transparent, intuitive and scalable governance model ("Mother DAO").
 
 ### MOTHER DAO
 
-- The Mother DAO **MUST** operate via an transparent, intuitive and scalable governance model.
 - The Mother DAO **MUST** be governed by nominated partners who represent the contributing entities of the cooperative. 
 - The Mother DAO **SHOULD** utilise NFTs to assign on-chain achievements, memberships and reputation of partners
 - The Mother DAO **MUST** develop governance systems that can be operated by technically competent and novice users alike.
 - The Mother DAO **MUST** develop secure, transparent and auditable mechanisms for the discussion, proposing, funding, tracking and reporting of grants. 
 - The Mother DAO **COULD** operate initially via an implementation of [Commonwealth](https://commonwealth.im)
 - The Mother DAO **COULD** develop her own governance, forum and proposal systems.
-- The Mother DAO **MUST** be able to delegate funds, governance oversight and reporting into sub-DAOs run by Partners ("daughter DAOs") 
+- The Mother DAO **MUST** be able to delegate funds, governance oversight and reporting into sub-DAOs run by Partners ("Daughter DAOs") 
 
 ### DAUGHTER DAOS
 
