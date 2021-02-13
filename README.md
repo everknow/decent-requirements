@@ -2,9 +2,9 @@ Decent-Requirements
 -------------------
 
 ### Overview
-_Decent Partners_ operates as a cooperative ("the cooperative") of creators, developers, entrepreneurs and organisations ("the partners") that exists to bridge Web2 and Web3 media. 
+_Decent Partners_ operates as a cooperative ("the cooperative") of creators, developers, entrepreneurs and organisations ("the partners") and exists to bridge Web2 and Web3 media. 
 
-Partners are funded via grants from the community owned and operated _Web3 Media Fund_ ("the fund").  
+Partners are funded via grants from the community owned and operated _Web3 Media Fund_ ("the fund"). The fund's capital is initially derived from chain treasuries such as Edgeware.   
 
 The mission is to drive the evolution of Web3 media via sustainable, scalable, interoperable and composable models that are publicly owned, operated and accessible.
 
@@ -17,7 +17,7 @@ Where conflicts arise **VALUES** will take precedence.
 ### VALUES
 
 - The cooperative **MUST** be operated as a publicly owned and operated entity.
-- The cooperative **MUST** make all code open source under X licence. 
+- The cooperative **MUST** make all code open source. 
 - The cooperative **MUST** develop and iterate a binding constitution ("the constitution") that Decent Partners operate under.
 - The cooperative **MUST** be open for new partners to join and also to leave to ensure the cooperative is resilient.  
 - The cooperative **SHOULD** always prioritise long term thinking over short-term opportunities.
@@ -32,15 +32,25 @@ Where conflicts arise **VALUES** will take precedence.
 - The fund **MUST** be operated in a secure, auditable and regulatory compliant manner. 
 - The fund **MUST** be accessible to anyone, anywhere as long as their proposal abides by the constitution. 
 
-### DAO
+### MOTHER DAO
 
-- The partners **MUST** operate via an transparent, intuitive and scalable governance model.
-- The partners **MUST** be governed by nominated partners who represent the contributing entities of the cooperative. 
-- The partners **MUST** develop governance systems that can be operated by technically competent and novice users alike.
-- The partners **MUST** develop transparent and auditable mechanisms for the discussion, proposing, funding, tracking and reporting of grants. 
-- The partners **SHOULD** enable 
-- The partners **SHOULD** operate initially via an implementation of [Commonwealth](https://commonwealth.im)
-- The partners **COULD** develop their own forum and proposal systems taking inspiration from existing projects.
+- The Mother DAO **MUST** operate via an transparent, intuitive and scalable governance model.
+- The Mother DAO **MUST** be governed by nominated partners who represent the contributing entities of the cooperative. 
+- The Mother DAO **SHOULD** utilise NFTs to assign on-chain achievements, memberships and reputation of partners
+- The Mother DAO **MUST** develop governance systems that can be operated by technically competent and novice users alike.
+- The Mother DAO **MUST** develop secure, transparent and auditable mechanisms for the discussion, proposing, funding, tracking and reporting of grants. 
+- The Mother DAO **COULD** operate initially via an implementation of [Commonwealth](https://commonwealth.im)
+- The Mother DAO **COULD** develop her own governance, forum and proposal systems.
+- The Mother DAO **MUST** be able to delegate funds, governance oversight and reporting into sub-DAOs run by Partners ("daughter DAOs") 
+
+### DAUGHTER DAOS
+
+- Daughter DAOs **MUST** enable funded partners to receive, manage and track grants in a simple, secure and intuitive UI 
+- Daughter DAOs **MUST** enable partners to hold cross-chain crypto-assets, including currencies and NFTs.
+- Daughter DAOs **COULD** enable partners to display their memberships, achievements and reputation easily.
+- Daughter DAOs **SHOULD** enable partners to connect with defi protocols to manage their finances. 
+- Daughter DAOs **MUST** enable partners to connect with the existing financial system via fiat gateways.
+- Daughter DAOs **SHOULD** enable partners to connect with the existing legal system via legal contract bridges. 
 
 ### CREATIVE ASSETS
 
@@ -48,6 +58,7 @@ Where conflicts arise **VALUES** will take precedence.
 - The partners **COULD** support directly the funding of creative assets ("creative assets") linked to legal titles ("creative asset securities"). 
 - The partners **SHOULD** aim to produce a sustainable revenue model from the creative assets it subsidises.
 - The partners **SHOULD** develop additional use case innovations related to creator-owned marketplaces. 
+- The partners **SHOULD** experiment with creative assets within the emerging aeas of AR and VR.
 - The partners **SHOULD** connect creative assets into the operations of the DAO to signal membership, achievements and reputation.
 - The partners **COULD** take an active role in the artistic development process by organising events and experiences.
 - The partners **SHOULD** develop projects that foster collaboration among artists.
@@ -98,12 +109,20 @@ Where conflicts arise **VALUES** will take precedence.
 
 ### MARKETPLACE API
 
+- The marketplace API **MUST**
+- The marketplace API **MUST**
+- The marketplace API **MUST**
+
 inclusion of a number of platforms and tech
 inclusion and negotiation with existing popular and emerging marketplaces
 
 ### BACKEND API
 
 dom
+
+- The backend API **MUST**
+- The backend API **MUST**
+- The backend API **MUST**
 
 ### INTEROPERABILITY
 
@@ -113,13 +132,19 @@ dom
 
 dom
 
+
+### CREATIVE NETWORKS 
+
+- The partners **MUST** develop bespoke apps, interfaces and experiences that can utilise all layers of Decent's emerging Web3 media stack. 
+- The partners **MUST** define the full-stack of Web3 Media for 3rd parties via educational materials, research and communications ("creative networks").
+- The partners **MUST** enable artists, creators and organisations to develop their own community owned and operated creative networks.
+- The partners **COULD** create a service that aggregates the output of all creative networks through a globally accessible UI.
+- The partners **COULD** develop a publicly owned, operated and accessible Web3 media streaming service. 
+
 ### UI WIDGETS
 
+EXAMPLES?
 ++++++++++++++++++++ bulb+phil
-
-### FULL STACK 
-
-+++++++ bulb+dom
 
 ### BUSINESS DEVELOPMENT
 
