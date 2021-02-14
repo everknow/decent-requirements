@@ -127,11 +127,21 @@ Where conflicts arise **VALUES** will take precedence.
 
 ### BACKEND API
 
-dom
-
-- The backend API **MUST**
-- The backend API **MUST**
-- The backend API **MUST**
+- The backend API **MUST** expose a simple REST/GraphQL api
+- The backend API **MUST** support a simple creation of NFT and Semi-Fungible smart contracts
+- The backend API **MUST** support a simple creation of smart contracts on EVM compatible substrate chains
+- The backend API **MUST** support a simple creation of smart contracts on WASM substrate chains
+- The backend API **MUST** support the preparation of a state change transaction to allow the integration external signing tools
+- The backend API **MUST** support the submission of a transaction with a specified number of confirmaions
+- The backend API **MUST** support the non state change querying for smart contract data
+- The backend API **MUST** support the subscritpion for smart contracts events (e.g. via websocket)
+- The backend API **SHOULD** support the simple definition of functions and parameters to be entered when calling a smart contract function
+- The backend API **SHOULD** support the simple definition of topics subscribing to smart contract events
+- The backend API **SHOULD** implement a number of external APIs for compatibility with web3js
+- The backend API **SHOULD** support a number of substrate chains
+- The backend API **COULD** support a number of non substrate chains
+- The partners **SHOULD** demonstrate and document (via official documentation and blogposts) the simple integration and composability of the API with the UI components on representative use cases
+- The partners **SHOULD** demonstrate and document (via official documentation and blogposts) the simple integration of the API with external UI components (e.g. softspot, zora etc..) on representative use cases
 
 ### INTEROPERABILITY
 
