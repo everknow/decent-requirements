@@ -71,7 +71,7 @@ Where conflicts arise **VALUES** will take precedence.
 
 ### CURATORS
 
-- The partners **MUST** develop a network of specialist creative asset curators ("curators") lead by MoCDA's example.
+- The partners **MUST** develop a network of specialist creative asset curators ("curators") lead by MoCDA's curators' example.
 - The partners **MUST** form a committee of curators who participate in the selection of creative assets to fund.
 - The partners **MUST** produce a manifesto of principles the curators vow to adhere to, in order to remain impartial in its influence (("the manifesto") 
 - The partners **MUST** produce a series of measurable metrics to objectively verify divergence from the principles.
@@ -107,17 +107,23 @@ Where conflicts arise **VALUES** will take precedence.
 - The partners **MUST** ensure that every supported marketplace collects artist royalties, co-owner shares and other beneficiaries fees automatically (e.g. a curator) and redistributes them accordingly.
 - The partners **MUST** implement automations to enforce the fees collection not only for the primary sale but also in the secondary market.
 - The partners **SHOULD** implement configurable and flexible smart contract to embrace a variety of use cases.
-- The partners **SHOULD** refer to MoCDA's acquired know how in this scope, to test the adaptability of the contracts.
+- The partners **SHOULD** refer to acquired know how in this scope, to test the adaptability of the contracts.
 - The partners **SHOULD** educate artists and collectors about the  possibilities available to them. Ideally this should be decided either at the time of an art drop or aven better at creation time.
 
 ### MARKETPLACE API
 
-- The marketplace API **MUST**
-- The marketplace API **MUST**
-- The marketplace API **MUST**
-
-inclusion of a number of platforms and tech
-inclusion and negotiation with existing popular and emerging marketplaces
+- The marketplace API **MUST** produce a comprehensive collection of UI widgets and components to be customised by customers to enable their market place.
+- The marketplace API **MUST** support integration with the backend API
+- The marketplace API **MUST** support a simple creation of NFT and Semi-Fungible smart contracts
+- The marketplace API **MUST** support a simple creation of smart contracts on EVM compatible substrate chains
+- The marketplace API **MUST** support a simple creation of smart contracts on WASM substrate chains
+- The marketplace API **MUST** support the definition of token types for the submitted smart contracts
+- The marketplace API **MUST** support the minting of token types for the submitted smart contracts
+- The marketplace API **SHOULD** support the integration with existing popular marketplaces
+- The partners **SHOULD** evangelise and influence popular marketplaces to embrace our API
+- The partners **SHOULD** act as a consultancy to onboard organisation on our API
+- The partners **SHOULD** offer a line of support to organisation integrated with our API
+- The marketplace components **MUST** include a series of telemetry information derived from the customer use to feed in the business intelligence analytics
 
 ### BACKEND API
 
@@ -169,7 +175,16 @@ dom
 
 ### BUSINESS INTELLIGENCE
 
-dom
+- The R&D team **MUST** define a series of metrics to collect from the various APIs and services
+- The R&D team **MUST** collect information from social media
+- The R&D team **SHOULD** shape the analytics backend traversals over graph indices
+- The partners **MUST** collectively agree on a series of valuable business metrics that can be derived from the collected data
+- The R&D team **MUST** define a series of heuristics to activate on top of the collected data to infer business metrics
+- The R&D team **SHOULD** produce a series of reports and graphical representation of the acquired data and business metrics
+- The R&D team **SHOULD** activate a series of clustering techniques to identify unexpected patterns in data
+- The partners **SHOULD** produce a risk profile associated to NFTs
+- The partners **SHOULD** produce a risk profile associated to collectors and investors
+- The R&D team **COULD** produce a risk management tool for the partners and affiliates organisations 
 
 ### RESEARCH & DEVELOPMENT
 - Async composability model
