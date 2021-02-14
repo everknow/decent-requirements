@@ -171,7 +171,7 @@ dom
 
 ### BUSINESS DEVELOPMENT
 
-++++++++++++ bulb+dom+sere+phil
+++++++++++++ bulb+sere+phil
 
 ### BUSINESS INTELLIGENCE
 
