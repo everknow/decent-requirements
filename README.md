@@ -48,6 +48,13 @@ Where conflicts arise **VALUES** will take precedence.
 - Commissions **MUST** be approved by the cooperative.
 - Commissions **MUST** be in return for contributions. 
 
+### CONTRIBUTIONS
+
+- The partners **MUST** assign assets, rights, licenses, contracts or resources ("contributions") in return for commissions.
+- The partners **SHOULD** ensure that the contributions are liquid assets.
+- The partners **SHOULD** ensure that where the contributions are not liquid, that there is provision for this. 
+- The contributions **SHOULD** be pooled into the fund's reserves.
+
 ### RESERVE
 
 - The reserve **MUST** consist of contributions from partners.
