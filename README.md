@@ -25,19 +25,27 @@ Where conflicts arise **VALUES** will take precedence.
 - The cooperative **MUST** be open for new partners to join and also to leave to ensure the cooperative is resilient.  
 - The cooperative **SHOULD** always prioritise long term thinking over short-term opportunities.
 
+### FUND
+
+- The fund **MUST** be operated as a publicly owned and operated entity.
+- The fund **SHOULD** prioritise initial investment from on-chain treasuries to ensure transparent public ownership.
+- The fund **MUST** build long term value through the continued contributions of partners received as part of grant funding agreements.
+- The fund **COULD** receive support from a range of sources such as foundations (crypto/traditional), aligned funds and public markets.
+- The fund **MUST** be capable of holding a wide range of crypto-assets including currencies and tokens.
+- The fund **SHOULD** be capable of holding traditional assets including equity and property titles.
+- The fund **MUST** be operated in a secure, auditable and regulatory compliant manner. 
+- The fund **MUST** be accessible to anyone, anywhere as long as their proposal abides by the constitution.
+- The fund **COULD** utilise its reserves as collateral for the launch of a community token that would be distributed to partners.
+- The fund **COULD** utilise this community token as the primary distribution mechanism for the launch of a dedicated Web3 media Substrate chain.
+- The fund **MUST** be operated via an transparent, intuitive and scalable governance system ("Mother DAO").
+
 ### RESERVE
 
-- The reserve **MUST** be operated as a publicly owned and operated entity.
-- The reserve **SHOULD** prioritise initial investment from on-chain treasuries to ensure transparent public ownership.
-- The reserve **MUST** build long term value through the continued contributions of partners received as part of grant funding agreements.
-- The reserve **COULD** receive support from a range of sources such as foundations (crypto/traditional), aligned funds and public markets.
-- The reserve **MUST** be capable of holding a wide range of crypto-assets including currencies and tokens.
-- The reserve **SHOULD** be capable of holding traditional assets including equity and property titles.
-- The reserve **MUST** be operated in a secure, auditable and regulatory compliant manner. 
-- The reserve **MUST** be accessible to anyone, anywhere as long as their proposal abides by the constitution.
-- The reserve **COULD** utilise its reserves as collateral for the launch of a community token that would be distributed to partners.
-- The reserve **COULD** utilise this community token as the primary distribution mechanism for the launch of a dedicated Web3 media Substrate chain.
-- The reserve **MUST** be operated via an transparent, intuitive and scalable governance system ("Mother DAO").
+- The reserve **MUST** be formdcontributions that are assigned to the reserve.
+- The reserves **MUST** be managed so as to ensure long term sustainability and viability of the ecosystem.
+- The reserves **SHOULD** be n
+- The partners **COULD** launch a community token backed by creative collateral to sustain its activities and the services it offers. Automatic and not.
+
 
 ### MOTHER DAO
 
@@ -93,7 +101,6 @@ Where conflicts arise **VALUES** will take precedence.
 - The partners **SHOULD** implement defi solutions for speculation over a creative asset.
 - The partners **SHOULD** implement defi solutions for indexes of creative assets.
 - The partners **SHOULD** implement a risk management solution to provision for mitigations.
-- The partners **COULD** launch a community token backed by creative collateral to sustain its activities and the services it offers. Automatic and not.
 - The partners **COULD** support preferential trading with Edgeware and any chain within the partners sphere of influence.
 - The partners **COULD** trade its tokens on third party exchanges.
 - The partners **COULD** engage in promotional distribution strategies to drive adoption of its tokens.
