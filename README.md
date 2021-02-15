@@ -6,7 +6,7 @@ _Decent_ operates as a digital cooperative ("the cooperative") of creators, deve
 
 Decent's mission is to empower a gobal network of partners to deliver high-quality, innovative and alternative storytelling that challenges the status quo. ("the mission").
 
-Partners are funded directly via commissions ("the commissions" from the cooperative's _Web3 Media Fund_ ("the fund"). Initial funding is derived from public goods focused chain treasuries such as Edgeware to ensure ownership remains globally distributed from the start. 
+Partners are funded directly via commissions ("the commissions") from the cooperative's _Web3 Media Fund_ ("the fund"). Initial funding is derived from public goods focused chain treasuries such as Edgeware to ensure ownership remains globally distributed from the start. 
 
 Partners return value to the fund in the form of attributed assets, licenses, rights, contracts and resources ("contributions"). Contributions form the foundation of the fund's underlying value ("the reserve"). 
 
