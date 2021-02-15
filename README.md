@@ -2,13 +2,15 @@ Decent-Requirements
 -------------------
 
 ### Overview
-_Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs and organisations ("the partners") with a primary focus on the development of a Web3 media ecosystem.
+_Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs and organisations ("the partners") with a primary focus on the development of a Web3 media ecosystem. This is delivered via sustainable, scalable, interoperable and composable protocols that are publicly owned, operated and accessible.
 
-Partners are funded directly via grants from the cooperative's _Web3 Media Fund_ ("the fund"). Initial funding is derived from public goods focused chain treasuries such as Edgeware. 
+Decent's mission is to empower a gobal network of partners to deliver high-quality, innovative and alternative storytelling that challenges the status quo. ("the mission").
 
-Partners return value to the fund in the form of attributed assets, agreements and resources ("the contribution"). Contributions form the basis of the fund's underlying value ("reserves"). 
+Partners are funded directly via commissions from the cooperative's _Web3 Media Fund_ ("the fund"). Initial funding is derived from public goods focused chain treasuries such as Edgeware to ensure ownership remains globally distributed from the start. 
 
-Decent's mission is to empower a gobal network of creative talent through the evolution of Web3 media via sustainable, scalable, interoperable and composable models that are publicly owned, operated and accessible.
+Partners return value to the fund in the form of attributed assets, licenses, rights, contracts and resources ("contributions"). Contributions form the foundation of the fund's underlying value ("the reserve"). 
+
+-------------------
 
 The present document contains a comprehensive set of requirements prioritised via the MoSCoW approach.
 
@@ -21,31 +23,36 @@ Where conflicts arise **VALUES** will take precedence.
 - The cooperative **MUST** be operated as a publicly owned, operated and accessible entity.
 - The cooperative **MUST** be sustainably, transparently and independently funded.
 - The cooperative **MUST** make all code open source and auditable. 
-- The cooperative **MUST** develop and iterate a binding constitution ("the constitution") that Decent Partners operate under.
-- The cooperative **MUST** be open for new partners to join and also to leave to ensure the cooperative is resilient.  
-- The cooperative **SHOULD** always prioritise long term thinking over short-term opportunities.
+- The cooperative **MUST** develop and iterate a binding constitution ("the constitution") that Partners operate under.
+- The cooperative **MUST** ensure that new partners can join and also leave easily.  
+- The cooperative **SHOULD** prioritise long term thinking over short-term opportunities.
 
 ### FUND
 
 - The fund **MUST** be operated as a publicly owned and operated entity.
 - The fund **SHOULD** prioritise initial investment from on-chain treasuries to ensure transparent public ownership.
-- The fund **MUST** build long term value through the continued contributions of partners received as part of grant funding agreements.
 - The fund **COULD** receive support from a range of sources such as foundations (crypto/traditional), aligned funds and public markets.
-- The fund **MUST** be capable of holding a wide range of crypto-assets including currencies and tokens.
+- The fund **MUST** commission partners to develop projects that advance the mission.
+- The fund **SHOULD** build long term value through the continued contributions of partners.
+- The fund **MUST** be capable of holding a wide range of cross-chain crypto-assets including currencies and tokens.
 - The fund **SHOULD** be capable of holding traditional assets including equity and property titles.
 - The fund **MUST** be operated in a secure, auditable and regulatory compliant manner. 
-- The fund **MUST** be accessible to anyone, anywhere as long as their proposal abides by the constitution.
 - The fund **COULD** utilise its reserves as collateral for the launch of a community token that would be distributed to partners.
 - The fund **COULD** utilise this community token as the primary distribution mechanism for the launch of a dedicated Web3 media Substrate chain.
-- The fund **MUST** be operated via an transparent, intuitive and scalable governance system ("Mother DAO").
+- The fund **MUST** be managed via an transparent, intuitive and scalable governance system ("Mother DAO").
+
+### COMMISSIONS
+
+- Commissions **MUST** align with the mission and constitution.
+- Commissions **MUST** be open to anyone, anywhere. 
+- Commissions **MUST** be approved by the cooperative.
+- Commissions **MUST** be in return for contributions. 
 
 ### RESERVE
 
-- The reserve **MUST** be formdcontributions that are assigned to the reserve.
-- The reserves **MUST** be managed so as to ensure long term sustainability and viability of the ecosystem.
-- The reserves **SHOULD** be n
-- The partners **COULD** launch a community token backed by creative collateral to sustain its activities and the services it offers. Automatic and not.
-
+- The reserve **MUST** consist of contributions from partners.
+- The reserve **MUST** be managed so as to ensure long term sustainability, transparency and viability of the ecosystem.
+- The reserve **COULD** be used as backing for the launch of a token distributed to partners in line with contributions. 
 
 ### MOTHER DAO
 
