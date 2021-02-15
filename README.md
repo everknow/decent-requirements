@@ -4,7 +4,9 @@ Decent-Requirements
 ### Overview
 _Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs and organisations ("the partners") with a primary focus on the development of a Web3 media ecosystem.
 
-Partners are funded directly via grants from the cooperative's _Web3 Media Fund_ ("the reserves"). The reserves are initially derived from chain treasuries such as Edgeware. Partners return value to the reserves in the form of attributed assets and contracts received through the outputs of grants ("the contribution"). 
+Partners are funded directly via grants from the cooperative's _Web3 Media Fund_ ("the fund"). Initial funding is derived from chain treasuries such as Edgeware. 
+
+Partners return value to the fund in the form of attributed assets, agreements and resources ("the contribution"). Contributions form the basis of the fund's underlying value ("reserves"). 
 
 Decent's mission is to empower a gobal network of creative talent through the evolution of Web3 media via sustainable, scalable, interoperable and composable models that are publicly owned, operated and accessible.
 
