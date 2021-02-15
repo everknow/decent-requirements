@@ -2,11 +2,11 @@ Decent-Requirements
 -------------------
 
 ### Overview
-_Decent Partners_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs and organisations ("the partners") and exists to bridge Web2 and Web3 media. 
+_Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs and organisations ("the partners") with a primary focus on the development of a Web3 media ecosystem.
 
-Partners are funded via grants from the community owned and operated _Web3 Media Fund_ ("the fund"). The fund's capital is initially derived from chain treasuries such as Edgeware.   
+Partners are funded directly via grants from the cooperative's _Web3 Media Fund_ ("the reserves"). The reserves are initially derived from chain treasuries such as Edgeware. Partners return value to the reserves in the form of attributed assets and contracts received through the outputs of grants ("the contribution"). 
 
-The mission is to drive the evolution of Web3 media via sustainable, scalable, interoperable and composable models that are publicly owned, operated and accessible.
+Decent's mission is to empower a gobal network of creative talent through the evolution of Web3 media via sustainable, scalable, interoperable and composable models that are publicly owned, operated and accessible.
 
 The present document contains a comprehensive set of requirements prioritised via the MoSCoW approach.
 
@@ -23,26 +23,29 @@ Where conflicts arise **VALUES** will take precedence.
 - The cooperative **MUST** be open for new partners to join and also to leave to ensure the cooperative is resilient.  
 - The cooperative **SHOULD** always prioritise long term thinking over short-term opportunities.
 
-### FUND
+### RESERVE
 
-- The fund **MUST** be operated as a publicly owned and operated entity.
-- The fund **SHOULD** prioritise initial investment from on-chain treasuries to ensure public ownership.
-- The fund **COULD** receive investment from a range of sources such as foundations, aligned funds and the capital markets.
-- The fund **MUST** be capable of holding a wide range of crypto-assets including currencies and tokens.
-- The fund **SHOULD** be capable of holding traditional assets including equity and property titles.
-- The fund **MUST** be operated in a secure, auditable and regulatory compliant manner. 
-- The fund **MUST** be accessible to anyone, anywhere as long as their proposal abides by the constitution.
-- The fund **MUST** be operated via an transparent, intuitive and scalable governance model ("Mother DAO").
+- The reserve **MUST** be operated as a publicly owned and operated entity.
+- The reserve **SHOULD** prioritise initial investment from on-chain treasuries to ensure transparent public ownership.
+- The reserve **MUST** build long term value through the continued contributions of partners received as part of grant funding agreements.
+- The reserve **COULD** receive support from a range of sources such as foundations (crypto/traditional), aligned funds and public markets.
+- The reserve **MUST** be capable of holding a wide range of crypto-assets including currencies and tokens.
+- The reserve **SHOULD** be capable of holding traditional assets including equity and property titles.
+- The reserve **MUST** be operated in a secure, auditable and regulatory compliant manner. 
+- The reserve **MUST** be accessible to anyone, anywhere as long as their proposal abides by the constitution.
+- The reserve **COULD** utilise its reserves as collateral for the launch of a community token that would be distributed to partners.
+- The reserve **COULD** utilise this community token as the primary distribution mechanism for the launch of a dedicated Web3 media Substrate chain.
+- The reserve **MUST** be operated via an transparent, intuitive and scalable governance system ("Mother DAO").
 
 ### MOTHER DAO
 
-- The Mother DAO **MUST** be governed by nominated partners who represent the contributing entities of the cooperative. 
-- The Mother DAO **SHOULD** utilise NFTs to assign on-chain achievements, memberships and reputation of partners
+- The Mother DAO **MUST** be governed by nominated partners who together represent the contributing workers of the cooperative. 
 - The Mother DAO **MUST** develop governance systems that can be operated by technically competent and novice users alike.
-- The Mother DAO **MUST** develop secure, transparent and auditable mechanisms for the discussion, proposing, funding, tracking and reporting of grants. 
+- The Mother DAO **MUST** develop secure, transparent and auditable mechanisms for the discussion, proposing, funding, tracking and reporting of grants.
+- The Mother DAO **SHOULD** utilise NFTs to assign on-chain achievements, memberships and reputation of partners
 - The Mother DAO **COULD** operate initially via an implementation of [Commonwealth](https://commonwealth.im)
 - The Mother DAO **COULD** develop her own governance, forum and proposal systems.
-- The Mother DAO **MUST** be able to delegate funds, governance oversight and reporting into sub-DAOs run by Partners ("Daughter DAOs") 
+- The Mother DAO **MUST** be able to delegate funds, governance oversight and reporting into sub-DAOs established by partners ("Daughter DAOs") 
 
 ### DAUGHTER DAOS
 
@@ -132,7 +135,7 @@ Where conflicts arise **VALUES** will take precedence.
 - The backend API **MUST** support a simple creation of smart contracts on EVM compatible substrate chains
 - The backend API **MUST** support a simple creation of smart contracts on WASM substrate chains
 - The backend API **MUST** support the preparation of a state change transaction to allow the integration external signing tools
-- The backend API **MUST** support the submission of a transaction with a specified number of confirmaions
+- The backend API **MUST** support the submission of a transaction with a specified number of confirmations
 - The backend API **MUST** support the non state change querying for smart contract data
 - The backend API **MUST** support the subscritpion for smart contracts events (e.g. via websocket)
 - The backend API **SHOULD** support the simple definition of functions and parameters to be entered when calling a smart contract function
@@ -156,27 +159,28 @@ Where conflicts arise **VALUES** will take precedence.
 - The partners **MUST** engage the collective with a fast prototype trial of novel approaches for interoperability
 - The partners **SHOULD** derive additional requirements by engaging an inclusive collective (not developers only) interpreting their response and reactions
 
-### FULL STACK WEB3 MEDIA
+### FULL STACK
 
-- The partners **MUST** research and define the key components of full stack Web3 media (e.g. compression, live streaming). 
+- The partners **MUST** research, define and document the key components of full stack Web3 media (e.g. NFTs, storage, streaming, identity, reputation) 
 - The partners **SHOULD** define the full-stack of Web3 Media for 3rd parties via educational materials, research and communications.
 - The partners **MUST** enable full stack Web3 media entities ("creative networks").
 
 ### CREATIVE NETWORKS 
 
-- Creative networks **MUST** enable artists, creators and organisations to fund, govern and manage their own entities.
-- Creative networks **SHOULD** enable creative assets to be packaged into higher order entities ("community IP"). 
+- Creative Networks **MUST** enable artists, creators and organisations to easily fund, govern and manage their own entities.
+- Creative Networks **SHOULD** enable creative assets to be packaged into higher order entities ("community IP"). 
 
-### COMMUNITY IP (LEGAL SUPPORT)
+### COMMUNITY IP 
 
-- Community IP **MUST** interoperate with existing legal entities and contracts. 
+- Community IP **SHOULD** be researched, defined and documented as a new form of collective rights management that empowers digital creators.
+- Community IP **SHOULD** interoperate with existing legal entities and contracts. 
 - Community IP **SHOULD** enable the efficient, transparent and cost-effective re-distribution of profits to rightholders in the underlying creative assets.
-- Community IP **COULD** be profitably licensed by 3rd party media entities, services or organisations.  
+- Community IP **COULD** be profitably licensed by 3rd party media entities, services or organisations. 
 
 ### APPS,INTERFACES & EXPERIENCES
 
 - The partners **MUST** develop bespoke apps, interfaces and experiences for creative networks that utilise the Web3 media stack. 
-- The partners **COULD** create a service that aggregates the output of all creative networks through a globally accessible UI.
+- The partners **COULD** create a service that aggregates the output of all creative networks through a globally accessible service.
 - The partners **COULD** develop a publicly owned, operated and accessible Web3 media streaming service. 
 
 ### BUSINESS DEVELOPMENT
