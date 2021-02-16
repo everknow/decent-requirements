@@ -10,7 +10,7 @@ Partners are funded directly via commissions ("the commissions") from the cooper
 
 The fund is initially drawn from public goods focused chain treasuries such as Edgeware to ensure ownership remains globally distributed from the start. 
 
-Partners return value to the fund in the form of attributed assets, licenses, rights, contracts and resources ("contributions"). 
+Partners return value to the fund in the form of attributed NFTs - assets, licenses, rights, contracts and resources ("contributions"). 
 
 Contributions form the foundation of the fund's underlying value ("the reserve"). 
 
