@@ -4,11 +4,11 @@ Decent-Requirements
 ### Overview
 _Decent_ operates as a digital cooperative ("the cooperative") of creators, developers, entrepreneurs and organisations ("the partners") with a primary focus on the development of a Web3 media ecosystem that is delivered via sustainable, scalable, interoperable and composable protocols that are publicly owned, operated and accessible.
 
-Decent's mission is to empower a gobal network of partners to deliver high-quality, innovative and alternative storytelling that challenges the status quo. ("the mission").
+Decent's mission is to empower a gobal network of creators to deliver high-quality, innovative and alternative storytelling that challenges the status quo. ("the mission").
 
 Partners are funded directly via commissions ("the commissions") from the cooperative's _Web3 Media Fund_ ("the fund"). 
 
-Initial funding is derived from public goods focused chain treasuries such as Edgeware to ensure ownership remains globally distributed from the start. 
+The fund is initially drawn from public goods focused chain treasuries such as Edgeware to ensure ownership remains globally distributed from the start. 
 
 Partners return value to the fund in the form of attributed assets, licenses, rights, contracts and resources ("contributions"). 
 
@@ -164,7 +164,7 @@ Where conflicts arise **VALUES** will take precedence.
 - The backend API **MUST** support the preparation of a state change transaction to allow the integration external signing tools
 - The backend API **MUST** support the submission of a transaction with a specified number of confirmations
 - The backend API **MUST** support the non state change querying for smart contract data
-- The backend API **MUST** support the subscritpion for smart contracts events (e.g. via websocket)
+- The backend API **MUST** support the subscription for smart contracts events (e.g. via websocket)
 - The backend API **SHOULD** support the simple definition of functions and parameters to be entered when calling a smart contract function
 - The backend API **SHOULD** support the simple definition of topics subscribing to smart contract events
 - The backend API **SHOULD** implement a number of external APIs for compatibility with web3js
@@ -194,7 +194,9 @@ Where conflicts arise **VALUES** will take precedence.
 
 ### CREATIVE NETWORKS 
 
-- Creative Networks **MUST** enable artists, creators and organisations to easily fund, govern and manage their own entities.
+- The partners **SHOULD** develop creative networks with entities such as MoCDA, FTTF, New-Futures, Auto Fabrica, Weapons of Reason.
+- The partners **SHOULD** prioritise development of emerging talent and ideas over more established or 'mainstream' talent.
+- Creative Networks **SHOULD** enable artists, creators and organisations to easily fund, govern and manage their own entities.
 - Creative Networks **SHOULD** enable creative assets to be packaged into higher order entities ("community IP"). 
 
 ### COMMUNITY IP 
@@ -212,7 +214,9 @@ Where conflicts arise **VALUES** will take precedence.
 
 ### BUSINESS DEVELOPMENT
 
-TBD
+- The partners **MUST** develop partnerships and relationships to further the mission. 
+- The partners **MUST** define KPIs to track the success of any partnerships and relationships.  
+- The partners **MUST** track KPIs to track the success of any partnerships and relationships.  
 
 ### BUSINESS INTELLIGENCE
 
