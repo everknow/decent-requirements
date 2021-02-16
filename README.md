@@ -220,16 +220,16 @@ Where conflicts arise **VALUES** will take precedence.
 
 ### BUSINESS INTELLIGENCE
 
-- The R&D team **MUST** define a series of metrics to collect from the various APIs and services
-- The R&D team **MUST** collect information from social media
-- The R&D team **SHOULD** shape the analytics backend traversals over graph indices
+- The BI team **MUST** define a series of metrics to collect from the various APIs and services
+- The BI team **MUST** collect information from social media
+- The BI team **SHOULD** shape the analytics backend traversals over graph indices
 - The partners **MUST** collectively agree on a series of valuable business metrics that can be derived from the collected data
-- The R&D team **MUST** define a series of heuristics to activate on top of the collected data to infer business metrics
-- The R&D team **SHOULD** produce a series of reports and graphical representation of the acquired data and business metrics
-- The R&D team **SHOULD** activate a series of clustering techniques to identify unexpected patterns in data
+- The BI team **MUST** define a series of heuristics to activate on top of the collected data to infer business metrics
+- The BI team **SHOULD** produce a series of reports and graphical representation of the acquired data and business metrics
+- The BI team **SHOULD** activate a series of clustering techniques to identify unexpected patterns in data
 - The partners **SHOULD** produce a risk profile associated to NFTs
 - The partners **SHOULD** produce a risk profile associated to collectors and investors
-- The R&D team **COULD** produce a risk management tool for the partners and affiliates organisations 
+- The BI team **COULD** produce a risk management tool for the partners and affiliates organisations 
 
 ### RESEARCH & DEVELOPMENT
 - Async composability model
