@@ -104,7 +104,7 @@ Where conflicts arise **VALUES** will take precedence.
 
 - The partners **MUST** develop a network of specialist creative asset curators ("curators") lead by MoCDA's curators' example.
 - The partners **MUST** form a committee of curators who participate in the selection of creative assets to fund.
-- The partners **MUST** produce a manifesto of principles the curators vow to adhere to, in order to remain impartial in its influence (("the manifesto") 
+- The partners **MUST** produce a manifesto of principles the curators vow to adhere to, in order to remain impartial in its influence ("the manifesto").
 - The partners **MUST** produce a series of measurable metrics to objectively verify divergence from the principles.
 - The partners **MUST** produce a series of measurable metrics to verify the influence the curatorial actions had on the market.
 - The partners **MUST** implement a scoring mechanism based on market metrics, every participant starts with a score that then fluctuates. 
@@ -216,7 +216,10 @@ Where conflicts arise **VALUES** will take precedence.
 
 - The partners **MUST** develop partnerships and relationships to further the mission. 
 - The partners **MUST** define KPIs to track the success of any partnerships and relationships.  
-- The partners **MUST** track KPIs to track the success of any partnerships and relationships.  
+- The partners **SHOULD** develop and share media content across multiple social channels, networks, press & media to promote our activities globally. 
+- The partners **MUST** develop a suistainable cycle to sustain the content creation, art curation and NFT market ecosystem based on the outlined model in this proposal. 
+- The partners **MUST** review the business model every three months.
+- The partners **SHOULD** address any opportunities and/or challenges on a monthly base with the wider collective. 
 
 ### BUSINESS INTELLIGENCE
 
