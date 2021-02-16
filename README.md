@@ -27,7 +27,7 @@ Where conflicts arise **VALUES** will take precedence.
 - The cooperative **MUST** be operated as a publicly owned, operated and accessible entity.
 - The cooperative **MUST** be sustainably, transparently and independently funded.
 - The cooperative **MUST** make all code open source and auditable. 
-- The cooperative **MUST** develop and iterate a binding constitution ("the constitution") that Partners operate under.
+- The cooperative **MUST** develop and iterate a binding constitution ("the constitution") that partners operate under.
 - The cooperative **MUST** ensure that new partners can join and also leave easily.  
 - The cooperative **SHOULD** prioritise long term thinking over short-term opportunities.
 
