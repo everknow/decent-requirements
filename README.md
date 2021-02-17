@@ -151,7 +151,7 @@ Partners
 - loans, backed by creative assets ("creative collateral") to enable additional sales.
 - speculation over a creative asset.
 - indexes of creative assets.
-- _implement a risk management solution to provision for mitigations.
+- implement a risk management solution to provision for mitigations.
 
 Partners
 **COULD**
