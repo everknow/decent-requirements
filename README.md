@@ -27,8 +27,7 @@ Where conflicts arise **VALUES** will take precedence.
 - develop and iterate a binding constitution ("the constitution") that partners operate under.
 - ensure that new partners can join and also leave easily. 
 
-**SHOULD** 
-- prioritise long term thinking over short-term opportunities.
+**SHOULD** prioritise long term thinking over short-term opportunities.
 
 ### FUND
 
@@ -60,14 +59,14 @@ Where conflicts arise **VALUES** will take precedence.
 ### CONTRIBUTIONS
 
 Partners 
-**MUST**  
-- assign assets, rights, licenses, contracts or resources ("contributions") in return for commissions.
+**MUST** assign assets, rights, licenses, contracts or resources ("contributions") in return for commissions.
 
+Partners
 **SHOULD**
 - ensure that the contributions are liquid assets.
 - ensure that where the contributions are not liquid, that there is provision for this. 
 
-The contributions 
+Contributions 
 **SHOULD** be pooled into the fund's reserves.
 
 ### RESERVE
@@ -76,8 +75,7 @@ The contributions
 - consist of contributions from partners.
 - be managed so as to ensure long term sustainability, transparency and viability of the ecosystem.
 
-**COULD**
-- be used as backing for the launch of a token distributed to partners in line with contributions. 
+**COULD** be used as backing for the launch of a token distributed to partners in line with contributions. 
 
 ### MOTHER DAO
 
@@ -103,8 +101,7 @@ The contributions
 - defi protocols to manage their finances. 
 - the existing legal system via legal contract bridges. 
 
-**COULD**
-- enable partners to display their memberships, achievements and reputation easily.
+**COULD** enable partners to display their memberships, achievements and reputation easily.
 
 ### CREATIVE ASSETS
 
@@ -114,6 +111,7 @@ Partners
 - define advantages of Substrate's technology with regard to the creation and management of creative assets.
 - experiment with Substrate's technology to advance the entire NFT space.    
 
+Partners
 **SHOULD**
 - aim to produce a sustainable revenue model from the creative assets it subsidises.
 - develop additional use case innovations related to creator-owned marketplaces. 
@@ -122,6 +120,7 @@ Partners
 - aggregate the creative assets to display the creative assets of partners.
 - develop projects that foster collaboration among artists.
 
+Partners
 **COULD** 
 - take an active role in the artistic development process by organising events and experiences.
 - seek to fundrise via third party collectors and investors.
@@ -140,6 +139,7 @@ Partners
 - implement a scoring mechanism based on market metrics, every participant starts with a score that then fluctuates. 
 - drive collectively the periodic review of the principles and metrics via a DAO democratic process based on score.
 
+Partners
 **COULD**
 - accept external input from a selected number of social and market sources.
 - drive collectively the periodic whitelisting and weight of the external sources.
@@ -150,9 +150,10 @@ Partners
 **SHOULD** implement defi solutions for:
 - loans, backed by creative assets ("creative collateral") to enable additional sales.
 - speculation over a creative asset.
--  indexes of creative assets.
--  and a risk management solution to provision for mitigations.
+- indexes of creative assets.
+- _implement a risk management solution to provision for mitigations.
 
+Partners
 **COULD**
 - support preferential trading with Edgeware and any chain within the partners sphere of influence.
 - trade its tokens on third party exchanges.
@@ -161,17 +162,17 @@ Partners
 ### MARKET
 
 Partners
-**MUST**
-- be in the position to recommend which data should or should not be exposed externally.
+**MUST** be in the position to recommend which data should or should not be exposed externally.
 
+Partners
 **SHOULD**
 - support a transparent record while retaining sensitive information in highly secured and tamper proof vaults.
 - encourage collectors from the crypto or the traditional art market to support AML best practices.
 - produce a per-metadata-entry risk profile taxonomy, and ensure the automation applies constraints where it can.
 - engage in periodic assessment of the categories of risk and update any related automation.
 
-**COULD** 
--support privacy and opacity, although it should discourage these practices as when the market gets traction it is likely to come under the scrutiny of governmental regulatory bodies.
+Partners
+**COULD** support privacy and opacity, although it should discourage these practices as when the market gets traction it is likely to come under the scrutiny of governmental regulatory bodies.
 
 ### MARKETPLACE FEES
 
@@ -180,6 +181,7 @@ Partners
 - ensure that every supported marketplace collects artist royalties, co-owner shares and other beneficiaries fees automatically (e.g. a curator) and      redistributes them accordingly.
 - implement automations to enforce the fees collection not only for the primary sale but also in the secondary market.
 
+Partners
 **SHOULD**
 - implement configurable and flexible smart contract to embrace a variety of use cases.
 - refer to acquired know how in this scope, to test the adaptability of the contracts.
@@ -234,13 +236,15 @@ Partners
 - introduce a series of automated questionnaires to acquire feedback from interoperability focus groups
 - engage the collective with a fast prototype trial of novel approaches for interoperability
 
+Partners
 **SHOULD**
-- produce a tool to support cross chain provenance for popoular chains that support NFTs
+- produce a tool to support cross chain provenance for popular chains that support NFTs
 - produce a tool to support cross chain identity profiling for substrate chains
 - extend a graph indexing facility to operate cross chain for substrate chains
 - engage with R&D and collectively explore and experiment via targeted POCs novel forms of interoperability
 - derive additional requirements by engaging an inclusive collective (not developers only) interpreting their response and reactions
 
+Partners
 **COULD**
 - produce a tool to support cross chain identity profiling for poular chains (DIDs could inspire this work)
 - extend a graph indexing facility to operate cross chain for popular chains
@@ -252,8 +256,8 @@ Partners
 - research, define and document the key components of full stack Web3 media (e.g. NFTs, storage, streaming, identity, reputation)
 - enable full stack Web3 media entities ("creative networks").
 
-**SHOULD**
-- define the full-stack of Web3 Media for 3rd parties via educational materials, research and communications.
+Partners
+**SHOULD** define the full-stack of Web3 Media for 3rd parties via educational materials, research and communications.
 
 ### CREATIVE NETWORKS 
 
@@ -274,15 +278,14 @@ Creative Networks
 - interoperate with existing legal entities and contracts. 
 - enable the efficient, transparent and cost-effective re-distribution of profits to rightholders in the underlying creative assets.
 
-**COULD**
-- be profitably licensed by 3rd party media entities, services or organisations. 
+**COULD** be profitably licensed by 3rd party media entities, services or organisations. 
 
 ### APPS,INTERFACES & EXPERIENCES
 
 Partners
-**MUST**
-- develop bespoke apps, interfaces and experiences for creative networks that utilise the Web3 media stack. 
+**MUST** develop bespoke apps, interfaces and experiences for creative networks that utilise the Web3 media stack. 
 
+Partners
 **COULD**
 - create a service that aggregates the output of all creative networks through a globally accessible service.
 - develop a publicly owned, operated and accessible Web3 media streaming service. 
@@ -296,6 +299,7 @@ Partners
 - develop a suistainable cycle to sustain the content creation, art curation and NFT market ecosystem based on the outlined model in this proposal.
 - review the business model every three months.              
 
+Partners
 **SHOULD**
 - develop and share media content across multiple social channels, networks, press & media to promote our activities globally.
 - address any opportunities and/or challenges on a monthly base with the wider collective. 
@@ -308,18 +312,19 @@ The BI team
 - collect information from social media 
 - define a series of heuristics to activate on top of the collected data to infer business metrics
 
+The BI team
 **SHOULD**
 - shape the analytics backend traversals over graph indices
 - produce a series of reports and graphical representation of the acquired data and business metrics
 - activate a series of clustering techniques to identify unexpected patterns in data
 
-**COULD**
-- produce a risk management tool for the partners and affiliates organisations
+The BI team
+**COULD** produce a risk management tool for the partners and affiliates organisations
 
 Partners 
-**MUST**
-- collectively agree on a series of valuable business metrics that can be derived from the collected data
+**MUST** collectively agree on a series of valuable business metrics that can be derived from the collected data
 
+Partners
 **SHOULD**
 - produce a risk profile associated to NFTs
 - produce a risk profile associated to collectors and investors
